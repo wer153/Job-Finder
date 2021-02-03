@@ -1,8 +1,8 @@
 # Job-Finder
 
-# What it does? 
+## What it does? 
 
-### scrapping job information in stackoverflow and indeed
+ scrapping job information in stackoverflow and indeed
 
 ## How do i use it?
 
